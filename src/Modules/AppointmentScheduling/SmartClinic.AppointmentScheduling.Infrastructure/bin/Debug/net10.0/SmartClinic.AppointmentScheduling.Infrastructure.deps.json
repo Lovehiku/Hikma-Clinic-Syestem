@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SmartClinic.AppointmentScheduling.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SmartClinic.AppointmentScheduling.Application": "1.0.0",
+          "SmartClinic.AppointmentScheduling.Domain": "1.0.0",
+          "SmartClinic.BuildingBlocks.Messaging": "1.0.0",
+          "SmartClinic.BuildingBlocks.Outbox": "1.0.0"
+        },
+        "runtime": {
+          "SmartClinic.AppointmentScheduling.Infrastructure.dll": {}
+        }
+      },
+      "SmartClinic.AppointmentScheduling.Application/1.0.0": {
+        "dependencies": {
+          "SmartClinic.AppointmentScheduling.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SmartClinic.AppointmentScheduling.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SmartClinic.AppointmentScheduling.Domain/1.0.0": {
+        "dependencies": {
+          "SmartClinic.BuildingBlocks.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SmartClinic.AppointmentScheduling.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SmartClinic.BuildingBlocks.Domain/1.0.0": {
+        "runtime": {
+          "SmartClinic.BuildingBlocks.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SmartClinic.BuildingBlocks.Messaging/1.0.0": {
+        "runtime": {
+          "SmartClinic.BuildingBlocks.Messaging.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SmartClinic.BuildingBlocks.Outbox/1.0.0": {
+        "runtime": {
+          "SmartClinic.BuildingBlocks.Outbox.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartClinic.AppointmentScheduling.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartClinic.AppointmentScheduling.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartClinic.AppointmentScheduling.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartClinic.BuildingBlocks.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartClinic.BuildingBlocks.Messaging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartClinic.BuildingBlocks.Outbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

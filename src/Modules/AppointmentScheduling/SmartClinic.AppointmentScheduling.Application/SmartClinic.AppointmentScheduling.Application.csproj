@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SmartClinic.AppointmentScheduling.Domain\SmartClinic.AppointmentScheduling.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

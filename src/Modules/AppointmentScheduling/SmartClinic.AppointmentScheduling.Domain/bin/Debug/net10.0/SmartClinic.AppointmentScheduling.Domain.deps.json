@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SmartClinic.AppointmentScheduling.Domain/1.0.0": {
+        "dependencies": {
+          "SmartClinic.BuildingBlocks.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SmartClinic.AppointmentScheduling.Domain.dll": {}
+        }
+      },
+      "SmartClinic.BuildingBlocks.Domain/1.0.0": {
+        "runtime": {
+          "SmartClinic.BuildingBlocks.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartClinic.AppointmentScheduling.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartClinic.BuildingBlocks.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
