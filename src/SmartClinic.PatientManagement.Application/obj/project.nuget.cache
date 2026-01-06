@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "08kMyn7+uyI=",
+  "dgSpecHash": "PXhffWF+tYI=",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\SmartClinic.PatientManagement.Application\\SmartClinic.PatientManagement.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\mediatr\\12.1.0\\mediatr.12.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -8,4 +8,8 @@
     <ProjectReference Include="..\SmartClinic.PatientManagement.Infrastructure\SmartClinic.PatientManagement.Infrastructure.csproj" />
     <ProjectReference Include="..\SmartClinic.BuildingBlocks.Security\SmartClinic.BuildingBlocks.Security.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="12.1.0" />
+  </ItemGroup>
 </Project>

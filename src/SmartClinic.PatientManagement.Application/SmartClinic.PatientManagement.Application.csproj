@@ -6,4 +6,7 @@
   <ItemGroup>
     <ProjectReference Include="..\SmartClinic.PatientManagement.Domain\SmartClinic.PatientManagement.Domain.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.1.0" />
+  </ItemGroup>
 </Project>
