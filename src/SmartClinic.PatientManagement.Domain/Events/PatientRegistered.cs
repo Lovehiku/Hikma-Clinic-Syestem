@@ -1,5 +1,5 @@
 using System;
-using SmartClinic.BuildingBlocks.Messaging;
+using SmartClinic.BuildingBlocks.Domain;
 
 namespace SmartClinic.PatientManagement.Domain.Events
 {

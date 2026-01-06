@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartClinic.PrescriptionManagement.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f19fb57374d020d72daad3e487d9b93cb1eabad")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartClinic.PrescriptionManagement.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartClinic.PrescriptionManagement.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

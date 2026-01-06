@@ -1,0 +1,12 @@
+C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\SmartClinic.BuildingBlocks.Outbox\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.deps.json
+C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\SmartClinic.BuildingBlocks.Outbox\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.dll
+C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\SmartClinic.BuildingBlocks.Outbox\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.pdb
+C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\SmartClinic.BuildingBlocks.Outbox\obj\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\SmartClinic.BuildingBlocks.Outbox\obj\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\SmartClinic.BuildingBlocks.Outbox\obj\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.AssemblyInfo.cs
+C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\SmartClinic.BuildingBlocks.Outbox\obj\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\SmartClinic.BuildingBlocks.Outbox\obj\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.sourcelink.json
+C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\SmartClinic.BuildingBlocks.Outbox\obj\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.dll
+C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\SmartClinic.BuildingBlocks.Outbox\obj\Debug\net10.0\refint\SmartClinic.BuildingBlocks.Outbox.dll
+C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\SmartClinic.BuildingBlocks.Outbox\obj\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.pdb
+C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\SmartClinic.BuildingBlocks.Outbox\obj\Debug\net10.0\ref\SmartClinic.BuildingBlocks.Outbox.dll

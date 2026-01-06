@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartClinic.BuildingBlocks.Outbox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+514c6722772303baed0ab4ceed415bf4a7547e8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f19fb57374d020d72daad3e487d9b93cb1eabad")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartClinic.BuildingBlocks.Outbox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartClinic.BuildingBlocks.Outbox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
