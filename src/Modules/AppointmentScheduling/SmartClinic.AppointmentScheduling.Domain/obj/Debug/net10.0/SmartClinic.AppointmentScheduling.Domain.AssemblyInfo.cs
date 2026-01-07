@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartClinic.AppointmentScheduling.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f6a517d793aea1bf24be984928657db45da702e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+276d3f9d29b7db7dfc31ab3b88fa219c6d598e47")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartClinic.AppointmentScheduling.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartClinic.AppointmentScheduling.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

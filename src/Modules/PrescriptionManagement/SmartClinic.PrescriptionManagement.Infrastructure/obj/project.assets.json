@@ -2,16 +2,6 @@
   "version": 3,
   "targets": {
     "net10.0": {
-      "SmartClinic.BuildingBlocks.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "compile": {
-          "bin/placeholder/SmartClinic.BuildingBlocks.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SmartClinic.BuildingBlocks.Domain.dll": {}
-        }
-      },
       "SmartClinic.BuildingBlocks.Messaging/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -48,9 +38,6 @@
       "SmartClinic.PrescriptionManagement.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
-        "dependencies": {
-          "SmartClinic.BuildingBlocks.Domain": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/SmartClinic.PrescriptionManagement.Domain.dll": {}
         },
@@ -61,11 +48,6 @@
     }
   },
   "libraries": {
-    "SmartClinic.BuildingBlocks.Domain/1.0.0": {
-      "type": "project",
-      "path": "../../../BuildingBlocks/SmartClinic.BuildingBlocks.Domain/SmartClinic.BuildingBlocks.Domain.csproj",
-      "msbuildProject": "../../../BuildingBlocks/SmartClinic.BuildingBlocks.Domain/SmartClinic.BuildingBlocks.Domain.csproj"
-    },
     "SmartClinic.BuildingBlocks.Messaging/1.0.0": {
       "type": "project",
       "path": "../../../BuildingBlocks/SmartClinic.BuildingBlocks.Messaging/SmartClinic.BuildingBlocks.Messaging.csproj",
@@ -96,19 +78,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\ms\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Infrastructure\\SmartClinic.PrescriptionManagement.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\ms\\OneDrive\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Infrastructure\\SmartClinic.PrescriptionManagement.Infrastructure.csproj",
       "projectName": "SmartClinic.PrescriptionManagement.Infrastructure",
-      "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Infrastructure\\SmartClinic.PrescriptionManagement.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\ms\\OneDrive\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Infrastructure\\SmartClinic.PrescriptionManagement.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\ms\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ms\\OneDrive\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ms\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -120,17 +102,17 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Messaging\\SmartClinic.BuildingBlocks.Messaging.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Messaging\\SmartClinic.BuildingBlocks.Messaging.csproj"
+            "C:\\Users\\ms\\OneDrive\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Messaging\\SmartClinic.BuildingBlocks.Messaging.csproj": {
+              "projectPath": "C:\\Users\\ms\\OneDrive\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Messaging\\SmartClinic.BuildingBlocks.Messaging.csproj"
             },
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Outbox\\SmartClinic.BuildingBlocks.Outbox.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Outbox\\SmartClinic.BuildingBlocks.Outbox.csproj"
+            "C:\\Users\\ms\\OneDrive\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Outbox\\SmartClinic.BuildingBlocks.Outbox.csproj": {
+              "projectPath": "C:\\Users\\ms\\OneDrive\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Outbox\\SmartClinic.BuildingBlocks.Outbox.csproj"
             },
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Application\\SmartClinic.PrescriptionManagement.Application.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Application\\SmartClinic.PrescriptionManagement.Application.csproj"
+            "C:\\Users\\ms\\OneDrive\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Application\\SmartClinic.PrescriptionManagement.Application.csproj": {
+              "projectPath": "C:\\Users\\ms\\OneDrive\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Application\\SmartClinic.PrescriptionManagement.Application.csproj"
             },
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\SmartClinic.PrescriptionManagement.Domain.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\SmartClinic.PrescriptionManagement.Domain.csproj"
+            "C:\\Users\\ms\\OneDrive\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\SmartClinic.PrescriptionManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\ms\\OneDrive\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\SmartClinic.PrescriptionManagement.Domain.csproj"
             }
           }
         }
@@ -166,7 +148,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
