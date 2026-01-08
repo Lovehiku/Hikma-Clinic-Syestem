@@ -1,27 +1,43 @@
+
+# User-specific files
+*.user
+*.suo
+
 # Build results
-**/bin/
-**/obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
 
-# Visual Studio
-.vs/
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
 
-# Rider / JetBrains
+# MSBuild
+*.log
+*.tlog
+
+# Test results
+TestResult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
 .idea/
 
-# OS files
-Thumbs.db
-.DS_Store
+# Visual Studio Code
+.vscode/
 
-# Logs
-*.log
-
-
-## Build outputs
-*.dll
-*.pdb
-*.cache
-bin/
-obj/
-*.dll
-*.pdb
-*.cache
+# Others
+*.swp
+*.bak
