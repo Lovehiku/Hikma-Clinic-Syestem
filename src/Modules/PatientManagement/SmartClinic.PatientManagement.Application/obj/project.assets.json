@@ -110,11 +110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Application\\SmartClinic.PatientManagement.Application.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Application\\SmartClinic.PatientManagement.Application.csproj",
       "projectName": "SmartClinic.PatientManagement.Application",
-      "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Application\\SmartClinic.PatientManagement.Application.csproj",
+      "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Application\\SmartClinic.PatientManagement.Application.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Application\\obj\\",
+      "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -129,8 +129,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Domain\\SmartClinic.PatientManagement.Domain.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Domain\\SmartClinic.PatientManagement.Domain.csproj"
+            "C:\\Users\\hp\\OneDrive\\Desktop\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Domain\\SmartClinic.PatientManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Domain\\SmartClinic.PatientManagement.Domain.csproj"
             }
           }
         }
