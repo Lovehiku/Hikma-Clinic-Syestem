@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartClinic.BuildingBlocks.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+276d3f9d29b7db7dfc31ab3b88fa219c6d598e47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f20fdd343cb1198935c3bd3f928dc15a98ef812")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartClinic.BuildingBlocks.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartClinic.BuildingBlocks.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

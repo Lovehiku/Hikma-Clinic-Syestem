@@ -4,6 +4,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="MediatR" Version="11.*" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SmartClinic.AppointmentScheduling.Domain\SmartClinic.AppointmentScheduling.Domain.csproj" />

@@ -84,3 +84,5 @@ C:\Users\hp\OneDrive\Desktop\Hikma-Clinic-Syestem\src\Modules\AppointmentSchedul
 C:\Users\hp\OneDrive\Desktop\Hikma-Clinic-Syestem\src\Modules\AppointmentScheduling\SmartClinic.AppointmentScheduling.Api\obj\Debug\net10.0\SmartClinic.AppointmentScheduling.Api.pdb
 C:\Users\hp\OneDrive\Desktop\Hikma-Clinic-Syestem\src\Modules\AppointmentScheduling\SmartClinic.AppointmentScheduling.Api\obj\Debug\net10.0\SmartClinic.AppointmentScheduling.Api.genruntimeconfig.cache
 C:\Users\hp\OneDrive\Desktop\Hikma-Clinic-Syestem\src\Modules\AppointmentScheduling\SmartClinic.AppointmentScheduling.Api\obj\Debug\net10.0\ref\SmartClinic.AppointmentScheduling.Api.dll
+C:\Users\hp\OneDrive\Desktop\Hikma-Clinic-Syestem\src\Modules\AppointmentScheduling\SmartClinic.AppointmentScheduling.Api\bin\Debug\net10.0\MediatR.dll
+C:\Users\hp\OneDrive\Desktop\Hikma-Clinic-Syestem\src\Modules\AppointmentScheduling\SmartClinic.AppointmentScheduling.Api\bin\Debug\net10.0\MediatR.Contracts.dll
