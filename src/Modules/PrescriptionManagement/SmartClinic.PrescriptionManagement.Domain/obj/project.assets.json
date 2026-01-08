@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\SmartClinic.PrescriptionManagement.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\SmartClinic.PrescriptionManagement.Domain.csproj",
       "projectName": "SmartClinic.PrescriptionManagement.Domain",
-      "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\SmartClinic.PrescriptionManagement.Domain.csproj",
+      "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\SmartClinic.PrescriptionManagement.Domain.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Domain\\SmartClinic.BuildingBlocks.Domain.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Domain\\SmartClinic.BuildingBlocks.Domain.csproj"
+            "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Domain\\SmartClinic.BuildingBlocks.Domain.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Domain\\SmartClinic.BuildingBlocks.Domain.csproj"
             }
           }
         }

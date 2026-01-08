@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Application\\SmartClinic.PrescriptionManagement.Application.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Application\\SmartClinic.PrescriptionManagement.Application.csproj",
       "projectName": "SmartClinic.PrescriptionManagement.Application",
-      "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Application\\SmartClinic.PrescriptionManagement.Application.csproj",
+      "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Application\\SmartClinic.PrescriptionManagement.Application.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Application\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,8 +69,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\SmartClinic.PrescriptionManagement.Domain.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\SmartClinic.PrescriptionManagement.Domain.csproj"
+            "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\SmartClinic.PrescriptionManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Domain\\SmartClinic.PrescriptionManagement.Domain.csproj"
             }
           }
         }

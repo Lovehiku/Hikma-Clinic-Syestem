@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nhhkm6lp7SM=",
+  "dgSpecHash": "1jsI54U98C0=",
   "success": true,
-  "projectFilePath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Api\\SmartClinic.PatientManagement.Api.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Api\\SmartClinic.PatientManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

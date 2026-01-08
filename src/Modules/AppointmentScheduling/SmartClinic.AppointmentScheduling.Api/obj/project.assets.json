@@ -136,11 +136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Api\\SmartClinic.AppointmentScheduling.Api.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Api\\SmartClinic.AppointmentScheduling.Api.csproj",
       "projectName": "SmartClinic.AppointmentScheduling.Api",
-      "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Api\\SmartClinic.AppointmentScheduling.Api.csproj",
+      "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Api\\SmartClinic.AppointmentScheduling.Api.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Api\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -155,14 +155,14 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Security\\SmartClinic.BuildingBlocks.Security.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Security\\SmartClinic.BuildingBlocks.Security.csproj"
+            "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Security\\SmartClinic.BuildingBlocks.Security.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Security\\SmartClinic.BuildingBlocks.Security.csproj"
             },
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Application\\SmartClinic.AppointmentScheduling.Application.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Application\\SmartClinic.AppointmentScheduling.Application.csproj"
+            "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Application\\SmartClinic.AppointmentScheduling.Application.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Application\\SmartClinic.AppointmentScheduling.Application.csproj"
             },
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Infrastructure\\SmartClinic.AppointmentScheduling.Infrastructure.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Infrastructure\\SmartClinic.AppointmentScheduling.Infrastructure.csproj"
+            "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Infrastructure\\SmartClinic.AppointmentScheduling.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Infrastructure\\SmartClinic.AppointmentScheduling.Infrastructure.csproj"
             }
           }
         }

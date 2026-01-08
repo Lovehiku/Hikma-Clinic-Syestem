@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Application\\SmartClinic.AppointmentScheduling.Application.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Application\\SmartClinic.AppointmentScheduling.Application.csproj",
       "projectName": "SmartClinic.AppointmentScheduling.Application",
-      "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Application\\SmartClinic.AppointmentScheduling.Application.csproj",
+      "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Application\\SmartClinic.AppointmentScheduling.Application.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Application\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,8 +69,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Domain\\SmartClinic.AppointmentScheduling.Domain.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Domain\\SmartClinic.AppointmentScheduling.Domain.csproj"
+            "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Domain\\SmartClinic.AppointmentScheduling.Domain.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Domain\\SmartClinic.AppointmentScheduling.Domain.csproj"
             }
           }
         }

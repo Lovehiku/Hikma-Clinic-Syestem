@@ -649,11 +649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Api\\SmartClinic.PatientManagement.Api.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Api\\SmartClinic.PatientManagement.Api.csproj",
       "projectName": "SmartClinic.PatientManagement.Api",
-      "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Api\\SmartClinic.PatientManagement.Api.csproj",
+      "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Api\\SmartClinic.PatientManagement.Api.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Api\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -668,14 +668,14 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Security\\SmartClinic.BuildingBlocks.Security.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Security\\SmartClinic.BuildingBlocks.Security.csproj"
+            "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Security\\SmartClinic.BuildingBlocks.Security.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Security\\SmartClinic.BuildingBlocks.Security.csproj"
             },
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Application\\SmartClinic.PatientManagement.Application.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Application\\SmartClinic.PatientManagement.Application.csproj"
+            "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Application\\SmartClinic.PatientManagement.Application.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Application\\SmartClinic.PatientManagement.Application.csproj"
             },
-            "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Infrastructure\\SmartClinic.PatientManagement.Infrastructure.csproj": {
-              "projectPath": "c:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Infrastructure\\SmartClinic.PatientManagement.Infrastructure.csproj"
+            "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Infrastructure\\SmartClinic.PatientManagement.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\PatientManagement\\SmartClinic.PatientManagement.Infrastructure\\SmartClinic.PatientManagement.Infrastructure.csproj"
             }
           }
         }
