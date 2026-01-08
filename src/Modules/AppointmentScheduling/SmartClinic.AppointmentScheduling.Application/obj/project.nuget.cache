@@ -7,5 +7,15 @@
     "C:\\Users\\hp\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Application\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Application\\SmartClinic.AppointmentScheduling.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Application\\SmartClinic.AppointmentScheduling.Application.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

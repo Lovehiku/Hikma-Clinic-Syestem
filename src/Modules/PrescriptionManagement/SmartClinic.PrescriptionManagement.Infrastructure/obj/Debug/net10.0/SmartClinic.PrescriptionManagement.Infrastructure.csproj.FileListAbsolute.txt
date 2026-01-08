@@ -23,7 +23,6 @@ C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\SmartClinic.PrescriptionManagemen
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\bin\Debug\net10.0\SmartClinic.PrescriptionManagement.Infrastructure.deps.json
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\bin\Debug\net10.0\SmartClinic.PrescriptionManagement.Infrastructure.dll
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\bin\Debug\net10.0\SmartClinic.PrescriptionManagement.Infrastructure.pdb
-C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Domain.dll
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Messaging.dll
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.dll
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\bin\Debug\net10.0\SmartClinic.PrescriptionManagement.Application.dll
@@ -32,7 +31,6 @@ C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\Sm
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\bin\Debug\net10.0\SmartClinic.PrescriptionManagement.Domain.pdb
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Messaging.pdb
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.pdb
-C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Domain.pdb
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\obj\Debug\net10.0\SmartClinic.PrescriptionManagement.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\obj\Debug\net10.0\SmartClinic.PrescriptionManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Infrastructure\obj\Debug\net10.0\SmartClinic.PrescriptionManagement.Infrastructure.AssemblyInfoInputs.cache

@@ -4,9 +4,4 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\BuildingBlocks\SmartClinic.BuildingBlocks.Domain\SmartClinic.BuildingBlocks.Domain.csproj" />
-  </ItemGroup>
-  <ItemGroup>
-  </ItemGroup>
 </Project>

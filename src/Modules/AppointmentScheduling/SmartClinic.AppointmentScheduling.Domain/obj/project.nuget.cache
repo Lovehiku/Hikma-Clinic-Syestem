@@ -4,5 +4,15 @@
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Domain\\SmartClinic.AppointmentScheduling.Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Domain\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Domain\\SmartClinic.AppointmentScheduling.Domain.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\hp\\Documents\\Hikma-Clinic-Syestem\\src\\Modules\\AppointmentScheduling\\SmartClinic.AppointmentScheduling.Domain\\SmartClinic.AppointmentScheduling.Domain.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

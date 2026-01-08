@@ -1,11 +1,27 @@
-## .NET
-bin/
-obj/
+# Build results
+**/bin/
+**/obj/
 
-## Visual Studio
+# Visual Studio
 .vs/
 
+# Rider / JetBrains
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+
 ## Build outputs
+*.dll
+*.pdb
+*.cache
+bin/
+obj/
 *.dll
 *.pdb
 *.cache

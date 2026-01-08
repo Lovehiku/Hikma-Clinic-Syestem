@@ -1,4 +1,4 @@
-using SmartClinic.PrescriptionManagement.Domain.Entities;
+using SmartClinic.PrescriptionManagement.Domain.Aggregates;
 
 namespace SmartClinic.PrescriptionManagement.Application.Services
 {

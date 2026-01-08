@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartClinic.BuildingBlocks.Security")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc1e4030b665622898b5daabae142c2ca94cb2f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08b81c8d4ad6a8d7fa6cab496b09f79111c2cfee")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartClinic.BuildingBlocks.Security")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartClinic.BuildingBlocks.Security")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

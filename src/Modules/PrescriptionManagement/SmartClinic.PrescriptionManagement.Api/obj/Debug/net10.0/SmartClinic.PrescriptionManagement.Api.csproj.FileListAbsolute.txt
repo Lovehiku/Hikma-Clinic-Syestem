@@ -45,7 +45,6 @@ C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\Sm
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.PrescriptionManagement.Api.runtimeconfig.json
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.PrescriptionManagement.Api.dll
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.PrescriptionManagement.Api.pdb
-C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Domain.dll
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Messaging.dll
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.dll
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Security.dll
@@ -55,7 +54,6 @@ C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\Sm
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.PrescriptionManagement.Application.pdb
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.PrescriptionManagement.Infrastructure.pdb
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Security.pdb
-C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Domain.pdb
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Messaging.pdb
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.BuildingBlocks.Outbox.pdb
 C:\Users\hp\Documents\Hikma-Clinic-Syestem\src\Modules\PrescriptionManagement\SmartClinic.PrescriptionManagement.Api\bin\Debug\net10.0\SmartClinic.PrescriptionManagement.Domain.pdb
