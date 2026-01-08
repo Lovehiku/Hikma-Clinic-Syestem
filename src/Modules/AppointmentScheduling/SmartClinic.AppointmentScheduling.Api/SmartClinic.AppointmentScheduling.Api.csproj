@@ -6,6 +6,9 @@
   <ItemGroup>
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="MediatR" Version="11.*" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.*" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SmartClinic.AppointmentScheduling.Application\SmartClinic.AppointmentScheduling.Application.csproj" />
